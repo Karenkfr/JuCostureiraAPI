@@ -14,6 +14,8 @@ Serviços prestados pela API:
 
 - Criação de serviços prestados (atrelado ao cliente ):
     Serviços: Criar uma nova peça ou reformar uma peça usada:
+    
+   
         Para nova peça: pode ser vestuário ou cama/mesa/banho:
             Para vestuário:  pode ser uma calça, saia, blusa ou vestido;
             Para cama/mesa banho: pode ser lençol, fronha ou edredom;
