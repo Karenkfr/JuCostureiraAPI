@@ -1,7 +1,7 @@
 # JuCostureiraAPI
 Api montada para realizar o cadastro de clientes e serviços prestados (em construção)
 
-https://media.tenor.com/L6q95L2WUa0AAAAM/typing-laptop.gif
+![cat work](https://user-images.githubusercontent.com/101227284/211430193-5d3e484c-1c5d-414e-9ca2-05b12ae222d5.gif)
 
 
 Serviços prestados pela API:
